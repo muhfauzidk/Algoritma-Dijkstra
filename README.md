@@ -2,7 +2,7 @@
 Implementasi Algoritma Dijkstra dengan Java
 
 ## Run script
-Simpan file Edges.java, Vert.java, PathFinder.java, Dijkstra.java dalam satu project lalu run Dijkstra.java untuk melihat output.
+Simpan file Edge.java, Vert.java, PathFinder.java, Dijkstra.java dalam satu project lalu run Dijkstra.java untuk melihat output.
 
 ## Screenshot input script
 File Dijkstra.java berisi script yang membuat sebuah graph seperti pada gambar dibawah :
