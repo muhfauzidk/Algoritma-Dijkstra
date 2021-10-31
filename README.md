@@ -1,6 +1,9 @@
-<h1> Algoritma-Dijkstra </h1>
-<p> Implementasi Algoritma Dijkstra dengan Java </p>
+# Algoritma-Dijkstra 
+Implementasi Algoritma Dijkstra dengan Java
 
-<h2> Cara penggunaan (run) script
-<p> 
+## Run script
+Simpan file Edges.java, Vert.java, PathFinder.java, Dijkstra.java dalam satu project lalu run Dijkstra.java untuk melihat output.
 
+## Screenshot input script
+
+## Screenshot output script
