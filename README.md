@@ -23,12 +23,4 @@ Script diatas untuk membuat sebuah graph seperti pada gambar dibawah :
 ![graph](https://github.com/muhfauzidk/Algoritma-Dijkstra/blob/dfb067bbc357ba07cc995beacfb3f2e673cdd936/graph.png)
 
 ## Screenshot output script
-``` js
-PathFinder shortestPath = new PathFinder();
-shortestPath.ShortestP(vA);
-System.out.println("Shortest Path from A to B: "+shortestPath.getShortestP(vB)+" = "+vB.getDist());
-System.out.println("Shortest Path from A to C: "+shortestPath.getShortestP(vC)+" = "+vC.getDist());
-System.out.println("Shortest Path from A to D: "+shortestPath.getShortestP(vD)+" = "+vD.getDist());
-```
-
 ![output](https://github.com/muhfauzidk/Algoritma-Dijkstra/blob/e676ae24bc9a77d67ebd009abb09394101c340ba/output.png)
